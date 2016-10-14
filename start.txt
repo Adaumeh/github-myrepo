@@ -3,3 +3,4 @@ My new git experience is awesome
 do not dout it
 welcome to git
 >>>>>>> ecd352809b98e817f9e06a7f6bf0ead39b0cdd2e
+getting ready
